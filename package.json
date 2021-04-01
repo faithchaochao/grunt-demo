@@ -1,0 +1,23 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "预处理",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faithchaochao/grunt-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faithchaochao/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/faithchaochao/grunt-demo#readme",
+  "devDependencies": {
+    "grunt-htmlhint": "^0.9.13"
+  }
+}
